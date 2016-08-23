@@ -1,0 +1,8 @@
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\obj\Debug\Harvest-Tunnel.csprojResolveAssemblyReference.cache
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\bin\Debug\Harvest-Tunnel.exe.config
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\bin\Debug\Harvest-Tunnel.exe
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\bin\Debug\Harvest-Tunnel.pdb
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\bin\Debug\DevDefined.OAuth.dll
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\bin\Debug\DevDefined.OAuth.pdb
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\obj\Debug\Harvest-Tunnel.exe
+C:\sources\Harvest-Tunnel\Harvest-Tunnel\obj\Debug\Harvest-Tunnel.pdb
